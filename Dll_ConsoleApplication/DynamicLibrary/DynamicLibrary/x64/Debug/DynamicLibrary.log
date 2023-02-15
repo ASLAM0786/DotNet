@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  calculator.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\DotNetPocs\POC\Dll_ConsoleApplication\DynamicLibrary\x64\Debug\DynamicLibrary.lib and object D:\DotNetPocs\POC\Dll_ConsoleApplication\DynamicLibrary\x64\Debug\DynamicLibrary.exp
+  DynamicLibrary.vcxproj -> D:\DotNetPocs\POC\Dll_ConsoleApplication\DynamicLibrary\x64\Debug\DynamicLibrary.dll

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: unresolved external symbol _addition referenced in function "private: virtual void __thiscall calculatorTestCase_calName_Test::TestBody(void)" (?TestBody@calculatorTestCase_calName_Test@@EAEXXZ)
+DynamicLibrary.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\DotNetPocs\POC\Dll_ConsoleApplication\GoogleTest\Debug\GoogleTest.exe : fatal error LNK1120: 1 unresolved externals

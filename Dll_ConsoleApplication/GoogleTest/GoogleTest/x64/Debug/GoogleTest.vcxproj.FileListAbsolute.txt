@@ -1,0 +1,1 @@
+D:\DotNetPocs\POC\Dll_ConsoleApplication\GoogleTest\GoogleTest\x64\Debug\GoogleTest.vcxproj.CopyComplete
